@@ -1,0 +1,27 @@
+15VanEmdeBoasTree...
+Size           insert()       remove()       isMember()     min()          max()          successor()    predecessor()  
+2^9              0              0              0              0              0              0              0              
+2^12             1              1              1              0              0              1              1              
+2^14             6              5              3              0              0              4              4              
+2^16             26             28             17             0              0              19             16             
+2^20             562            330            614            0              0              242            261            
+2^23             4409           3756           5127           0              0              1644           3439           
+
+9YFastTrie...
+Size           insert()       remove()       isMember()     min()          max()          successor()    predecessor()  
+2^9              0              0              0              0              0              0              0              
+2^12             1              1              1              0              0              2              2              
+2^14             5              6              3              0              0              8              9              
+2^16             23             24             10             0              0              39             37             
+2^20             386            113            48             0              0              316            339            
+2^23             4355           507            312            0              0              2791           2881           
+
+21HierarchicalHashTable...
+Size           insert()       remove()       isMember()     min()          max()          successor()    predecessor()  
+2^9              1              1              0              0              0              0              0              
+2^12             8              8              1              0              0              1              1              
+2^14             40             40             4              0              0              4              5              
+2^16             222            204            20             0              0              19             22             
+2^20             3196           2656           212            0              0              205            234            
+2^23             33199          27965          2692           0              0              2295           2125           
+
