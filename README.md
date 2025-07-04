@@ -1,3 +1,4 @@
+THIS IS RAW GROUP PROJECT FOLDER GL VIEWING IT HAHA
 # *Để chạy chương trình:*
 
     **Bước 1**: Mở terminal và cd vào thư mục Group_03 .VD: "cd Downloads/Group_03"
